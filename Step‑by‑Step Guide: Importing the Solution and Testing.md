@@ -27,6 +27,9 @@ Example: Nudge App Adaptive Cards
 Upload the JSON Adaptive Card file(s) into this library
 Confirm:
 
+<img width="996" height="460" alt="Screenshot 2026-01-19 143124" src="https://github.com/user-attachments/assets/3669ac03-1659-4d43-8616-649230c3fe24" />
+
+
 The file is visible
 The file name matches what you expect to reference
 You have access to the library
@@ -58,6 +61,8 @@ What to do
 Sign in when prompted
 Ensure each connection shows a green check mark
 This ensures all flows and integrations can run correctly
+<img width="661" height="408" alt="Screenshot 2026-01-19 143312" src="https://github.com/user-attachments/assets/79b21479-2465-43f3-983c-3096d2a16e37" />
+
 
 ✅ Do not continue until all required connections are resolved.
 
@@ -84,6 +89,7 @@ Nudge App Adaptive Cards
 
 The Microsoft 365 Group ID that contains all Copilot‑enabled users
 This group is used for targeted communication and nudging actions
+<img width="687" height="442" alt="Screenshot 2026-01-19 143359" src="https://github.com/user-attachments/assets/4590987f-abb4-4795-92d1-20713767e930" />
 
 
 ℹ️ Tip: Validate that this group contains only the users you intend to include.
