@@ -1,6 +1,7 @@
 
 Power Automate Nudge App
-Step‑by‑Step Guide: Importing the Solution and Testing
+Step‑by‑Step Guide: 
+Importing the Solution and Testing
 This document explains how to import the Power Automate Nudge App solution into your own Power Platform environment, configure the required settings, and perform basic testing.
 
 ⚠️ Important
@@ -139,4 +140,4 @@ This solution is provided as‑is:
 
 No official Microsoft support is provided
 No SLA or production guarantees are made
-Customers are responsible for adapting, validating, and supporting their own implementation
+Users are responsible for adapting, validating, and supporting their own implementation
